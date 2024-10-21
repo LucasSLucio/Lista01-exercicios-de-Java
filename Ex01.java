@@ -1,15 +1,19 @@
-// Faça um Programa Que permita que seja digitada uma palavra e apresente como resultado:
-// A palavra digitada foi:
-// A palavra tem N dígitos
-// A primeira letra X
-// A letra central da palavra é X
-// A última letra é X
-// A palavra escrita ao contrário é:
-// A palavra toda em maiusculo:
-// A palavra toda em minusculo:
+/*Nome: Lucas da Silva Lucio
+ Disciplina: Desenvolvimento de aplicações
+ TURMA: TCTG241CNTDEV
+ */
 
 import java.util.Scanner;
 
+/*  questão 1 Faça um Programa Que permita que seja digitada uma palavra e apresente como resultado:
+ A palavra digitada foi:
+ A palavra tem N dígitos
+ A primeira letra X
+A letra central da palavra é X
+A última letra é X
+A palavra escrita ao contrário é:
+A palavra toda em maiusculo:
+ A palavra toda em minusculo:*/ 
 public class Ex01 {
     public static void main(String[] args) { 
         Scanner scanner = new Scanner(System.in);
